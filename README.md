@@ -47,9 +47,9 @@ To run this project, you will need:
 ## Usage
 
 1. Load the `snakegood.asm` file in the MARS MIPS32 simulator.
-2. Open the Tools menu and select "Keyboard and Display MMIO".
-3. Set the Unit width and height to 16x16 and the display width and height to 256.
+2. Open the Tools menu, select "Keyboard and Display MMIO" and select "Bitmap Display".
+3. Bitmap Display : set the unit width and height to 16x16 and the display width and height to 256.
 4. Assemble the program.
 5. Run the program.
-6. Use the `z`, `q`, `s`, and `d` keys to control the snake.
+6. Use the `z`, `q`, `s`, and `d` keys to control the snake in "Keyboard and Display MMIO" .
 
