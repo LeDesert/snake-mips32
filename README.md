@@ -15,6 +15,9 @@ Welcome to the Snake Game project implemented in MIPS32 assembly language. This 
 
 This project is a basic implementation of the Snake game using MIPS32 assembly language. The game is designed to run on a MIPS32 simulator and demonstrates fundamental concepts of assembly programming.
 
+  <img src="./SnakeScreen.png" alt="Snake picture" width="50%" style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+
 ## Features
 
 - Classic Snake gameplay
